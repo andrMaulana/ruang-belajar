@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `<yourname> - <id>`
+- Andri Maulana - BE8278372`
 - Bob
